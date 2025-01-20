@@ -20,16 +20,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Task-Tracker
-# Task-Tracker
-# Task-Tracker
-# Task-Tracker
-# Task-Tracker
-# Task-Tracker
-# Task-Tracker
-# Task-Tracker
-# Task-Tracker
-# new-task-
-# new-tast-
